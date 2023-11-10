@@ -45,12 +45,6 @@ body {
     text-decoration: none;
 }
 
-#description {
-  text-align: center;
-  display: block;
-  margin-top: 2px;
-}
-
 #links {
     max-width: 675px;
     width: auto;
